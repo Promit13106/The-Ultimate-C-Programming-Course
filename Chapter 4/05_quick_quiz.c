@@ -16,3 +16,19 @@ int main(){
 
     return 0;
 }
+
+// I think this can be another solve of the quiz.Happy Coding!
+#include <stdio.h>
+
+int main()
+{
+    int i = 10;
+
+    while (i <= 20)
+    {
+        printf("Natural Number is %d\n", i);
+        i++;
+    }
+
+    return 0;
+}
